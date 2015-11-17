@@ -1,6 +1,6 @@
 # mi9-web-service [![Build Status](https://travis-ci.org/harvest316/mi9-web-service.png?branch=master)](https://travis-ci.org/harvest316/mi9-web-service)
 
-This successful submission to the Mi9 Web Service Coding Challenge filters a given [JSON list of TV shows](https://github.com/mi9/coding-challenge-samples/blob/master/sample_response.json) returning the subset of these shows that have DRM enabled and at least one episode.
+This successful submission to the Mi9 Web Service Coding Challenge filters a given [JSON list of TV shows](https://github.com/mi9/coding-challenge-samples/blob/master/sample_response.json), returning the subset of these shows that have DRM enabled and at least one episode.
 
 By [Paul Harvey](http://paulharvey.com.au) (harvest316)
 
